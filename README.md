@@ -7,8 +7,8 @@
   <a href="https://www.codewars.com/users/Stereoboi">
     <img src="https://img.shields.io/badge/codewars-orange?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars Badge"/>
   </a>
-  <a href="3.14shcha@gmail.com">
-    <img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  <a href="https://stereoboi.github.io/three_portfolio/">
+    <img src="https://img.shields.io/badge/email-red?logo=pinterest&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
 </div>
 <h1>
