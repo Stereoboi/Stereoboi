@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/codewars-orange?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars Badge"/>
   </a>
   <a href="https://stereoboi.github.io/three_portfolio/">
-    <img src="https://img.shields.io/badge/email-red?logo=pinterest&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-red?logo=pinterest&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
 </div>
 <h1>
